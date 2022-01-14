@@ -1,7 +1,5 @@
 package fpinscala.datastructures
 
-import fpinscala.datastructures
-
 import scala.annotation.tailrec
 import scala.collection.mutable.ListBuffer
 
